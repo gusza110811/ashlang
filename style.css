@@ -1,0 +1,23 @@
+body {
+    background-color: #011933;
+    color: rgb(255, 232, 197);
+    text-align: center;
+    font-family: "Helvetica"
+}
+
+div {
+    background-color: #836dcf;
+    margin: 10%;
+    margin-top: 0%;
+    margin-bottom: 2mm;
+    border-radius: 0.5cm;
+    border: 4px solid #021122;
+    color: #000000;
+    text-align: center;
+}
+
+pre {
+    display: block;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
