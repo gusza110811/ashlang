@@ -1,12 +1,12 @@
 body {
     background-color: #011933;
-    color: rgb(255, 232, 197);
+    color: #ffffff;
     text-align: center;
     font-family: "Helvetica"
 }
 
 div {
-    background-color: #836dcf;
+    background-color: #c2bae2;
     margin: 10%;
     margin-top: 0%;
     margin-bottom: 2mm;
@@ -17,7 +17,9 @@ div {
 }
 
 pre {
-    display: block;
+    display: inline-block;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
+    background-color: #141414;
+    color: #ffffff;
 }
